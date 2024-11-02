@@ -34,4 +34,4 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/OscarRodolfoUMG)
+- Frontend Mentor - [@OscarRodolfoUMG](https://www.frontendmentor.io/profile/OscarRodolfoUMG)
