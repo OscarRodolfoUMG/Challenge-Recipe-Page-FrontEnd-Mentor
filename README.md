@@ -22,7 +22,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Live Site URL (Github Pages): [Add live site URL here](https://oscarrodolfoumg.github.io/Challenge-Recipe-Page-FrontEnd-Mentor/)
+- Site URL: [GitHubPages](https://oscarrodolfoumg.github.io/Challenge-Recipe-Page-FrontEnd-Mentor/)
 
 ## My process
 
