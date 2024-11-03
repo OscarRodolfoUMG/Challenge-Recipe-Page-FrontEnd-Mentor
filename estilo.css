@@ -19,7 +19,7 @@ h1 {
     color: black;
 }
 
-h3,
+.h2-prep,
 p,
 ul,
 ol,
@@ -62,9 +62,11 @@ hr {
     padding: 20px 25px;
     border-radius: 10px;
 
-    h3 {
+    .h2-prep{
         color: hsl(332, 51%, 32%);
         margin: 0;
+        font-weight: bold;
+        font-size: 17px;
     }
 
     li::marker {
